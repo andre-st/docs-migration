@@ -1,0 +1,8 @@
+*~
+*.bak
+*.tmp
+*.swp
+*.tar.gz
+*.zip
+.obsolete
+
